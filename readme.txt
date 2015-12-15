@@ -14,6 +14,9 @@ A WordPress plugin to control Internal External links in add/edit link (post edi
 
 A WordPress plugin to control Internal External links in add/edit link (post editor) or in massive way.
 
+Features:
+- Add option in add/edit link from post/page editor.
+
 == Installation ==
 
 This section describes how to install the plugin and get it working.
